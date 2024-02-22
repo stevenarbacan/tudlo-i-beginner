@@ -320,7 +320,7 @@ h2 {
 footer {
   padding: 20px 0px;
   text-align: center;
-  font-size: 1.7em;
+  font-size: 1.2em;
 }
 /*Mobile height*/
 @media only screen and (max-height: 500px) {
