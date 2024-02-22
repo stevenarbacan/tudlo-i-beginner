@@ -349,6 +349,9 @@ footer {
   .grow:hover {
     transform: scale(1);
   }
+  footer {
+  font-size: 1.2em;
+}
 }
 /*Mobile width*/
 @media only screen and (max-width: 800px) {
